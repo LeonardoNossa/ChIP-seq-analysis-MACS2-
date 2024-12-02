@@ -1,5 +1,6 @@
 # ChIP-seq-analysis-MACS2-
 Workflow analysis of MACS for ChIP-seq data
+All the analysis are done in Bash language. In addition as can see in the .pptx there are additional analysis using GREAT, UCSC and PSCANChIP.
 This is "all in all" the worflow that I used for the project:
 (In the repository also find R file related to the creation plots that represent some data)
 
